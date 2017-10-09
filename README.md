@@ -2,7 +2,7 @@
 Little Project for learning Go based on an AI, which lives as Humans on a World and collects Resources for their Homes
 
 
-# gets started
+# get started
 Run with 
 
 go run *.go
